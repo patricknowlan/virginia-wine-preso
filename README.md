@@ -1,11 +1,4 @@
-## Talk Starter
+## Virginia Wine API and Harvester Talk 
 
-This are the slides for the talk These are not the models you're looking for at Angular Connect
+Created for the DC API Meetup. Enjoy.
 
-You can see them at http://mgonto.github.io/these-are-not-the-models-you-are-looking-for
-
-## Thanks
-
-I've based my presentation on @afabbro presentation for the JSConf 2013. Her presentation was also based on @glenmaddern so thanks to both of you!!
-
-I've used giff and images scattered from the Web, so thanks to everyone who made them!!
